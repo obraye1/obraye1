@@ -1,12 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Temple
 ====================================================================================================================================
 
-Python Programmer | Web Developer | Data Engineer Enthusist | Kid Cudi Lover
+Python Programmer | Web Developer | Data Engineer Enthusist | Kid-Cudi
 ----------------------------------------------------------------------------
-
-Driven to learn quickly, advance computer proficiency and training in industry operations. I’m interested in remote opportunities in Software Engineering, Fullstack Web Development, Data Analysis and Visualization. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. Professionally, I am very passionate about Competitive Problem Solving, Web Application Development, and Artificial Intelligence applications.
-
-* 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [home](http://https://brilliant-seahorse-1b4dbe.netlify.app)
 * ✉️  You can contact me at [bryanonyenghan@gmail.com](mailto:bryanonyenghan@gmail.com)
 * 🧠  I'm learning React + Typescript
