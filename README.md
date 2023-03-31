@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Temple
 ====================================================================================================================================
 
-Python Programmer | Web Developer | Data Engineer Enthusist | Kid-Cudi
+Python Programmer |  Web Developer | Typescript Enthusist | Kid-Cudi lover 
 ----------------------------------------------------------------------------
 * 🖥️  See my portfolio at [home](http://https://brilliant-seahorse-1b4dbe.netlify.app)
 * ✉️  You can contact me at [bryanonyenghan@gmail.com](mailto:bryanonyenghan@gmail.com)
