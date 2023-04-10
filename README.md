@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Python Programmer |  Web Developer | Typescript Enthusist | Kid-Cudi lover 
 ----------------------------------------------------------------------------
-* 🖥️  See my portfolio at [home](http://https://brilliant-seahorse-1b4dbe.netlify.app)
+* 🖥️  See my portfolio at [home](https://personalweb-mocha.vercel.app/)
 * ✉️  You can contact me at [bryanonyenghan@gmail.com](mailto:bryanonyenghan@gmail.com)
 * 🧠  I'm learning React + Typescript
 * 🤝  I'm open to collaborating on interesting projects
