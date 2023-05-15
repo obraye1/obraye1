@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bryan Temple
 ====================================================================================================================================
 
-Python Programmer |  Web Developer | Typescript Enthusist | Kid-Cudi lover 
+ Frontend Web Developer | Typescript Enthusiast | Kid-Cudi lover 
 ----------------------------------------------------------------------------
 * 🖥️  See my portfolio at [home](https://personalweb-mocha.vercel.app/)
 * ✉️  You can contact me at [bryanonyenghan@gmail.com](mailto:bryanonyenghan@gmail.com)
-* 🧠  I'm learning React + Typescript
+* 🧠  I'm learning React + Typescript + trPc 
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/Templebryan" target="_blank" rel="noreferrer"><img
